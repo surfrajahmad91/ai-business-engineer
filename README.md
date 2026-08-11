@@ -1,1 +1,1 @@
-Learning Git and GitHub with ABEP.
+Learning Git and GitHub with ABEP (AI Business Engineer).
